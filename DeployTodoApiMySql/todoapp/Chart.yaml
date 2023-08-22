@@ -8,4 +8,4 @@ dependencies:
   - name: mysql
     version: 0.1.0
     condition: database.enabled
-    repository: 
+    repository: https://padmanabhansaravanan.github.io/Helm/DeployTodoApiMySql/mysql/charts
