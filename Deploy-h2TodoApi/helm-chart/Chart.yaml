@@ -1,5 +1,5 @@
 apiVersion: v2
-name: todo-api
+name: todo-api-h2
 description: A Helm chart for deploy todo application
 type: application
 version: 0.1.0
