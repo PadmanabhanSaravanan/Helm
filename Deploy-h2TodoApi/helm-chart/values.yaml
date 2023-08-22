@@ -4,10 +4,10 @@ image:
   repository: vijaynvb/todoapih2:1.0
 
 service:
-  type: ClusterIP
+  type: NodePort
   port: 80
   name: svctodoh2api
   targetPort: 80
 
 container:
-  name: todoapih2
+  name: todoapi-h2
