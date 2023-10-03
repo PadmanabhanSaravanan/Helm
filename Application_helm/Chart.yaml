@@ -8,8 +8,8 @@ dependencies:
   - name: todo-api-h2
     version: 0.1.0
     condition: foo.enabled
-    repository: https://padmanabhansaravanan.github.io/Helm/Deploy-h2TodoApi/helm-chart/charts
+    repository: https://vijaynvb.github.io/todoapi/Helm/TodoApi_H2/charts
   - name: todo-api
     version: 0.1.0
     condition: foo.enabled
-    repository: https://padmanabhansaravanan.github.io/Helm/DeployTodoApiMySql/todoapp/charts
+    repository: https://vijaynvb.github.io/todoapi/Helm/TodoApi_MySQL/todoapp/charts

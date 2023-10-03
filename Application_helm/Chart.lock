@@ -1,9 +1,9 @@
 dependencies:
 - name: todo-api-h2
-  repository: https://padmanabhansaravanan.github.io/Helm/Deploy-h2TodoApi/helm-chart/charts
+  repository: https://vijaynvb.github.io/todoapi/Helm/TodoApi_H2/charts
   version: 0.1.0
 - name: todo-api
-  repository: https://padmanabhansaravanan.github.io/Helm/DeployTodoApiMySql/todoapp/charts
+  repository: https://vijaynvb.github.io/todoapi/Helm/TodoApi_MySQL/todoapp/charts
   version: 0.1.0
-digest: sha256:74645cb9640e4f0356e770d5ca127b89e33a99ff9fa7e16bf8a581348a7b849f
-generated: "2023-08-22T12:27:09.1805258+05:30"
+digest: sha256:9ccb00fdc1d0e9933fed8795b3ea01a1d98ed7c5d621d6f50c8c03b30002bd7e
+generated: "2023-10-03T11:36:53.9712887+05:30"
